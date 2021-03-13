@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tensquare-spit" />
+        <module name="tensquate-base" />
+        <module name="tensquare-web-gateway" />
+        <module name="tensquare-user" />
+        <module name="tensquare-sms" />
+        <module name="tensquare-manager-gateway" />
+        <module name="tensquare-ai" />
+        <module name="tensquare-article" />
+        <module name="tensquare-eureka" />
+        <module name="tensquare-config" />
+        <module name="tensquare-friend" />
+        <module name="tensquare-article-crawler" />
+        <module name="tensquare-common" />
+        <module name="tensquare-gathering" />
+        <module name="tensquare-user-crawler" />
+        <module name="tensquare-search" />
+        <module name="tensquare-recruit" />
+        <module name="tensquare-qa" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="tensquare-ai" options="-parameters" />
+      <module name="tensquare-article" options="-parameters" />
+      <module name="tensquare-article-crawler" options="-parameters" />
+      <module name="tensquare-common" options="-parameters" />
+      <module name="tensquare-config" options="-parameters" />
+      <module name="tensquare-eureka" options="-parameters" />
+      <module name="tensquare-friend" options="-parameters" />
+      <module name="tensquare-gathering" options="-parameters" />
+      <module name="tensquare-manager-gateway" options="-parameters" />
+      <module name="tensquare-qa" options="-parameters" />
+      <module name="tensquare-recruit" options="-parameters" />
+      <module name="tensquare-search" options="-parameters" />
+      <module name="tensquare-sms" options="-parameters" />
+      <module name="tensquare-spit" options="-parameters" />
+      <module name="tensquare-user" options="-parameters" />
+      <module name="tensquare-user-crawler" options="-parameters" />
+      <module name="tensquare-web-gateway" options="-parameters" />
+      <module name="tensquate-base" options="-parameters" />
+    </option>
+  </component>
+</project>

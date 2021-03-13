@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tensquare-ai/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tensquare-article-crawler/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tensquare-article/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tensquare-base/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tensquare-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tensquare-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tensquare-eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tensquare-friend/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tensquare-gathering/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tensquare-manager-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tensquare-qa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tensquare-recruit/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tensquare-search/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tensquare-sms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tensquare-spit/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tensquare-user-crawler/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tensquare-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tensquare-web-gateway/src/main/java" charset="UTF-8" />
+  </component>
+</project>
